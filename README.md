@@ -9,5 +9,4 @@
 - 💬 Ask me about Anything
 - 📫 How to reach me: https://www.linkedin.com/in/amit-singh-8b8824160
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love watching anime and running as well.
-
+- ⚡ Fun fact: I love travelling to new places and experiencing things from different culture .

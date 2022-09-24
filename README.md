@@ -2,8 +2,7 @@
 
 
 
-- 🔭 I’m currently working on Web development
-- 🌱 I’m currently learning ReactJS
+- 🔭 I’m currently working on Web development.
 - 👯 I’m looking to collaborate on anything related to frontend development.
 - 📫 How to reach me: https://www.linkedin.com/in/amit-singh-8b8824160
 - 😄 Pronouns: He/Him

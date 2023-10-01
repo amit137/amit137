@@ -27,3 +27,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amit137&" alt="amit137" /></p>
 
+[![An image of @amit137's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amit137)](https://holopin.io/@amit137)
